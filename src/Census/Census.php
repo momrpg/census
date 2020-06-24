@@ -1,8 +1,8 @@
 <?php
 
-namespace LotGD\Census;
+namespace momrpg\census;
 
-use LotGD\Census\WarriorsPageState;
+use momrpg\census\WarriorsPageState;
 
 class Census {
     public $debugFakeData = false;
